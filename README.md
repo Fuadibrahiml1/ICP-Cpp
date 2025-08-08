@@ -7,7 +7,6 @@ ICP-Cpp is a C++ project designed for [insert purpose or course information here
 - [Features](#features)
 - [Installation](#installation)
 - [Building the Project](#building-the-project)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
