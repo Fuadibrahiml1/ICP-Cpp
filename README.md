@@ -1,6 +1,6 @@
 # ICP-Cpp
 
-ICP-Cpp is a C++ project designed for [insert purpose or course information here if applicable]. This repository contains source code, build scripts, and related files to help you get started quickly with C++ development using modern CMake.
+ICP-Cpp is a C++ project.This repository contains source code, build scripts, and related files to help you get started quickly with C++ development using modern CMake.
 
 ## Table of Contents
 
