@@ -49,14 +49,6 @@ cd ICP-Cpp
     cmake --build .
     ```
 
-## Usage
-
-- After building, the executable(s) will be available in the `build` directory.
-- Run the generated binary as follows:
-    ```bash
-    ./your_executable_name
-    ```
-- Replace `your_executable_name` with the actual name of the compiled program.
 
 ## Project Structure
 
@@ -79,4 +71,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Feel free to update this README with additional details about your project, such as specific modules, example commands, or acknowledgments.*
